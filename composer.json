@@ -1,30 +1,19 @@
 {
-    "name": "guanguans/uploadfile",
-    "description": "\u0016Universal upload class",
+    "name": "huyufan/swoole-test",
+    "description": "about php phpinfo",
     "type": "library",
     "require": {
         "php": ">=5.4"
     },
     "require-dev": {
-        "php": ">=5.4",
-        "phpunit/phpunit": "5.5.*"
+        "php": ">=5.4"
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "guanguans",
-            "email": "yzmguanguan@gmail.com"
+            "name": "huyufan",
+            "email": "flat_boy@163.com"
         }
     ],
-    "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "Guanguans\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "Guanguans\\Tests\\": "tests/"
-        }
-    }
+    "minimum-stability": "dev"
 }
